@@ -1,0 +1,41 @@
+.popup-container {
+  align-self: flex-end;
+  font-family: 'Bree Serif';
+}
+
+.trigger-button {
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #223a5f;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 20px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}
+
+.popup-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+.close-button {
+  align-self: flex-end;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.rules-image-container {
+  width: 100%;
+}
+
+.rules-image {
+  width: 100%;
+}
